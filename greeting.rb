@@ -1,2 +1,3 @@
 def greeting
-  puts "Hello World"
+  puts "Hello World" //body of the method
+end

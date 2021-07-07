@@ -1,4 +1,4 @@
-# Methods in Ruby
+puts # Methods in Ruby
 
 ## Overview
 
